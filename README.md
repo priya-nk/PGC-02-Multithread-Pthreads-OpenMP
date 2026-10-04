@@ -73,7 +73,7 @@ Instead of having one thread process a large job from start to finish, the workl
 
 ## Software Environment
 
-|<img width="1137" height="583" alt="image" src="https://github.com/user-attachments/assets/09f8ebef-d6ae-45a2-afca-17dbe6369fb0" />
+<img width="515" height="357" alt="image" src="https://github.com/user-attachments/assets/75a37642-e6a3-4af4-bae4-7ec0531abad9" />
 
 
 ---
