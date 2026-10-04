@@ -193,6 +193,9 @@ gcc omp_perf.c -o omp_perf -fopenmp
 | **6** | 0.850071 | 0.841213 |
 | **16** | 0.530415 | 0.448971 |
 
+<img width="1117" height="664" alt="graph1(exec_vs_noofthreads)" src="https://github.com/user-attachments/assets/046f8928-3bec-4ca2-b4f1-32532431cf21" />
+
+
 ---
 
 ### 2. Speedup (Higher is Better)
@@ -206,6 +209,9 @@ $$\text{Speedup} = \frac{\text{Sequential Baseline Time}}{\text{Parallel Executi
 | **4** | 3.532x | 3.421x |
 | **6** | 3.937x | 3.978x |
 | **16** | **6.309x** | **7.454x** |
+
+<img width="1014" height="604" alt="graph2_speed_vs_noofthreads" src="https://github.com/user-attachments/assets/1987feda-7136-4742-bfbf-b8e25dd53cf7" />
+
 
 ---
 
@@ -221,7 +227,10 @@ $$\text{Efficiency (\%)} = \left( \frac{\text{Speedup}}{\text{Number of Threads}
 | **6** | 65.61% | 66.30% |
 | **16** | **39.43%** | **46.58%** |
 
+<img width="999" height="592" alt="graph3_efficiency_vs_noofthreads" src="https://github.com/user-attachments/assets/ddd768b5-2801-4a17-91af-efe433152111" />
+
 ---
+
 
 ## Race Conditions & Solutions
 
