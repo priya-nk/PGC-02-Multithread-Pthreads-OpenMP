@@ -73,14 +73,8 @@ Instead of having one thread process a large job from start to finish, the workl
 
 ## Software Environment
 
-| Component | Technology |
-|---|---|
-| **Host OS** | Windows (via WSL Ubuntu) |
-| **Language** | C |
-| **Compiler** | GCC |
-| **Explicit Threading** | POSIX Threads (`-pthread`) |
-| **Directive Parallelism**| OpenMP (`-fopenmp`) |
-| **Text Editor** | Nano |
+|<img width="1137" height="583" alt="image" src="https://github.com/user-attachments/assets/09f8ebef-d6ae-45a2-afca-17dbe6369fb0" />
+
 
 ---
 
